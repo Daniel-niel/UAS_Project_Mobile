@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524660292719",
+    "project_id": "titan-s-note",
+    "storage_bucket": "titan-s-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524660292719:android:0acb16559c816bba97a19a",
+        "android_client_info": {
+          "package_name": "com.ubm.titans_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524660292719-iitg8pbknpvba39usmh4itasbvdilrnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALGbNRfkLG8vC9sj9ozgd_ExmTfWwHi48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524660292719-iitg8pbknpvba39usmh4itasbvdilrnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
